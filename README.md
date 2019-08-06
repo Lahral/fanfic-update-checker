@@ -30,6 +30,11 @@ When adding in the new fanfiction to the csv file, set LAST UPDATE to 0, and
 enter the second to latest chapter. When run, both the LAST UPDATE and chapter 
 will be updated to the current values.
 
+to run:
+```
+python fanfic_update.py
+```
+
 ## Current Issues:
 
 * ~~If placing a fanfic with no updates, will crash due to edge cases with RegEx.
