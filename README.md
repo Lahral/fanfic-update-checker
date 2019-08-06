@@ -32,5 +32,7 @@ will be updated to the current values.
 
 ## Current Issues:
 
-* If placing a fanfic with no updates, will crash due to edge cases with RegEx.
- Will be fixed shortly.
+* ~~If placing a fanfic with no updates, will crash due to edge cases with RegEx.
+ Will be fixed shortly.~~ 
+ With a simple fix, this isn't really an issue, and makes some sense since it 
+ technically hasn't been updated yet
